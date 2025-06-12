@@ -1,0 +1,13 @@
+# Ne pas versionner les données brutes
+/data/
+
+# Dossiers d'environnement virtuel
+venv/
+
+# Cache Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Fichiers système Mac/Windows
+.DS_Store
+Thumbs.db
